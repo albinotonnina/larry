@@ -3,13 +3,15 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react-scripts": "1.1.4",
+    "color": "^3.0.0",
+    "emotion": "^9.2.6",
+    "emotion-theming": "^9.2.6",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-emotion": "^9.2.6",
-    "emotion": "^9.2.6",
-    "emotion-theming": "^9.2.6",
-    "styled-system": "^3.0.1"
+    "react-scripts": "1.1.4",
+    "styled-system": "^3.0.1",
+    "system-components": "^3.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
