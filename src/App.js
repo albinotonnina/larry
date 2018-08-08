@@ -7,7 +7,7 @@ export default class App extends React.Component {
   render() {
     return (
       <ThemeProvider theme={theme}>
-        <span>Hello</span>
+        <span>Hello World</span>
       </ThemeProvider>
     )
   }
